@@ -1,1 +1,37 @@
-/* Write your CSS here! */
+body {
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+#pictures {
+    margin-top: 4px;
+    margin-left: 4px;
+    margin-bottom: 4px;
+    margin-right: 4px;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+html {
+    background-color: brown
+}
+
+#testP {
+    color: blue;
+}
+
+#headings {
+    color: purple;
+}
