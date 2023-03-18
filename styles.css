@@ -1,8 +1,6 @@
 body {
-    margin-top: 8px;
-    margin-left: 8px;
-    margin-bottom: 8px;
-    margin-right: 8px;
+   margin: 8px;
+   padding: 10px;
 }
 
 #mainHeading {
@@ -11,17 +9,12 @@ body {
 
 .funParagraph {
     color: green;
+    font-size: larger;
 }
-
-#pictures {
-    margin-top: 4px;
-    margin-left: 4px;
-    margin-bottom: 4px;
-    margin-right: 4px;
-    padding-left: 40px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-right: 20px;
+ 
+img {
+    max-width: auto;
+    height: auto;
 }
 
 html {
@@ -30,8 +23,20 @@ html {
 
 #testP {
     color: blue;
+    font-size: 20px;
 }
 
 #headings {
     color: purple;
+}
+
+.unorderedList {
+    color: orangered;
+}
+
+#discord {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
